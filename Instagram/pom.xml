@@ -14,7 +14,7 @@
 	<name>Instagram Backend Project</name>
 	<description>Instagram backend Spring-boot application using Thymeleaf, Spring Data JPA, Rest Repositories and MySQL Driver</description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
